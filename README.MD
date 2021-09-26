@@ -5,3 +5,5 @@
 详细用法请参考：
 
 [使用Keras编写神经网络预测大乐透彩票，并利用历史数据回测](https://blog.csdn.net/aaronjny/article/details/103276212)
+
+https://www.programmersought.com/article/40274891084/
